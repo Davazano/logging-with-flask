@@ -73,7 +73,7 @@ def main():
   app.logger.warning("Warning log info")
   app.logger.error("Error log info")
   app.logger.critical("Critical log info")
-  return "testing logging levels."
+  return "testing logging levels!"
 
 
 if __name__ == '__main__':
